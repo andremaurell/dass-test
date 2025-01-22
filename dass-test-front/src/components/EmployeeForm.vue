@@ -43,7 +43,7 @@
         </select>
         <input
           v-model="employee.shoeSize"
-          placeholder="Shoe Size"
+          placeholder="Shoe Size (32-48)"
           type="number"
           required
           class="border border-gray-300 p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
