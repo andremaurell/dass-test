@@ -29,7 +29,7 @@ npm install
 
 5. Rode o backend:
 ```bash
-npm run dev
+npm run start
 ```
 
 ## **Frontend**
