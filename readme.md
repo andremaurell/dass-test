@@ -33,7 +33,7 @@ npm run start
 ```
 
 ## **Frontend**
-1. Entre na pasta do backend:
+1. Entre na pasta do frontend:
 ```bash
 cd dass-test-front
 ```
